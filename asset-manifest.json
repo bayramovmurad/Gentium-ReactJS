@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Gentium-React-JS/static/css/main.8c7d4002.css",
+    "main.js": "/Gentium-React-JS/static/js/main.9343b4c1.js",
+    "static/media/AvantGarde-Bold.woff2": "/Gentium-React-JS/static/media/AvantGarde-Bold.94ce04914d60fd88be59.woff2",
+    "index.html": "/Gentium-React-JS/index.html",
+    "main.8c7d4002.css.map": "/Gentium-React-JS/static/css/main.8c7d4002.css.map",
+    "main.9343b4c1.js.map": "/Gentium-React-JS/static/js/main.9343b4c1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c7d4002.css",
+    "static/js/main.9343b4c1.js"
+  ]
+}
